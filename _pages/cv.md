@@ -6,4 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![](https://github.com/Schrodingercutecat/waynetang.github.io/images/CV_Weiheng_Tang.jpg)
+
+{% include base_path %}
+
+[Download My CV here](https://github.com/Schrodingercutecat/waynetang.github.io/files/CV_Weiheng_Tang.pdf")
